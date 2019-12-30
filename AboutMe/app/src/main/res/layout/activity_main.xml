@@ -15,6 +15,22 @@
         android:text="@string/name"
         android:textAlignment="center" />
 
+    <EditText
+        android:id="@+id/editText"
+        style="@style/NameStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/nick_prompt"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
     <ImageView
         android:id="@+id/star_image"
         android:layout_width="match_parent"
@@ -34,6 +50,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:lineSpacingMultiplier="1.2"
+            android:paddingBottom="@dimen/padding"
             android:text="@string/bio" />
     </ScrollView>
 
