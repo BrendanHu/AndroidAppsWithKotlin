@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Brendan Hu</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Brendan
+    \n\nI like baseball and video games.
+    \nI\'ve played baseball for the last 11 years, and played on the Thornhill Reds rep team for about 7.
+    \nRecently I stepped down, however, because I wanted to focus on school.
+    \n\nAs for video games, I like to play lots of different types of games.
+    \nI play Counter Strike and League of Legends at a decent level, but also enjoy
+    \nsingleplayer RPGs. My favourite is The Witcher 3, which I believe is one of the best games ever made.
+    \n\nI study Nanotechnology Engineering at the University of Waterloo. It\'s the study of the
+        development and fabrication on materials on the nanometer scale.
+    </string>
 </resources>
