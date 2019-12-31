@@ -14,4 +14,6 @@
         development and fabrication on materials on the nanometer scale.
     </string>
     <string name="nick_prompt">What is your nickname?</string>
+    <string name="done">DONE</string>
+    <string name="nickname_text" />
 </resources>
